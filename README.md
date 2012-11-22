@@ -1,4 +1,0 @@
-SampleApplication
-=================
-
-Test automated build
