@@ -1,4 +1,0 @@
-D:\Projects\SampleApplication\SampleApplication\bin\SampleApplication.dll
-D:\Projects\SampleApplication\SampleApplication\bin\SampleApplication.pdb
-D:\Projects\SampleApplication\SampleApplication\obj\Debug\SampleApplication.dll
-D:\Projects\SampleApplication\SampleApplication\obj\Debug\SampleApplication.pdb
