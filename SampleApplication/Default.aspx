@@ -10,9 +10,7 @@
     <form id="form1" runat="server">
     <div>
     My Test application...
-Committing on master.
-New test.
-again new test....
+
     </div>
     </form>
 </body>
