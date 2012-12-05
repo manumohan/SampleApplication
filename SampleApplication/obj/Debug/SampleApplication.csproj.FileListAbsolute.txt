@@ -1,0 +1,4 @@
+D:\Projects\SampleApp1\SampleApplication\SampleApplication\bin\SampleApplication.dll
+D:\Projects\SampleApp1\SampleApplication\SampleApplication\bin\SampleApplication.pdb
+D:\Projects\SampleApp1\SampleApplication\SampleApplication\obj\Debug\SampleApplication.dll
+D:\Projects\SampleApp1\SampleApplication\SampleApplication\obj\Debug\SampleApplication.pdb
