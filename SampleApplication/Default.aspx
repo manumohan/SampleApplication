@@ -11,6 +11,7 @@
     <div>
     My Test application...
 Committing on master.
+New test.
     </div>
     </form>
 </body>
